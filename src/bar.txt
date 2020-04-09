@@ -1,0 +1,3 @@
+This is the first line of bar.txt.
+Their wives and children will mourn as Jeremiah.
+This is the last line of bar.txt.
